@@ -1708,11 +1708,18 @@ body .btn-twentySix:hover:after {
   color: var(--prime-one);
 }
 .hero-banner-one .illustration-holder {
+  // position: absolute;
+  // right: 6.7%;
+  // bottom: 0;
+  // width: 40.44%;
+  // max-width: 750px;
+  // z-index: 1;
   position: absolute;
-  right: 6.7%;
+  right: 0;
   bottom: 0;
-  width: 40.44%;
-  max-width: 750px;
+  // max-width: 750px;
+  width: 50%;
+  height: 100%;
   z-index: 1;
 }
 .hero-banner-one .illustration-holder .shape-one {

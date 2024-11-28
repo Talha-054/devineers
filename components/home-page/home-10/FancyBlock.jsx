@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const FancyBlock = () => {
   const images = [
     {
@@ -41,7 +43,7 @@ const FancyBlock = () => {
         className: "lazy-img rounded-3",
       },
       subtitle:
-        "Auis nostrud exercitation ullamco labors nis slit alquip Duis aute irure dolor in reprehen erio isu voluptate velit sed.",
+        "Our Pizza App boosts restaurant efficiency and growth with an intuitive admin panel, real-time tracking, and powerful analytics. It empowers data-driven decisions, streamlines workflows, and scales effortlessly. Trusted by top restaurants, keeps them ahead in the evolving food industry.",
       author: "Rashed Kabir",
       authorTitle: "CEO Janu",
     },
@@ -72,7 +74,14 @@ const FancyBlock = () => {
                   </div>
                   <p className="text-lg pt-60 pb-60 lg-pt-30 lg-pb-30">{data.subtitle}</p>
                   <div className="name fs-20 tx-dark fw-500">
-                    - {data.author}, <span className="opacity-25">{data.authorTitle}</span>
+                    {/* - {data.author}, <span className="opacity-25">{data.authorTitle}</span> */}
+                    <Link
+                        href="https://demo.reactors.dev/"
+                        target="_blank"
+                      >
+                        <button type="button" className="btn-three">Live Preview</button>
+                    </Link>
+                    
                   </div>
                 </div>
               </div>
@@ -98,7 +107,12 @@ const FancyBlock = () => {
                   </div>
                   <p className="text-lg pt-60 pb-60 lg-pt-30 lg-pb-30">{data.subtitle}</p>
                   <div className="name fs-20 tx-dark fw-500">
-                    - {data.author}, <span className="opacity-25">{data.authorTitle}</span>
+                    {/* - {data.author}, <span className="opacity-25">{data.authorTitle}</span> */}
+                    <Link
+                        href="#"
+                      >
+                        <button type="button" className="btn-three">Live Preview</button>
+                    </Link>
                   </div>
                 </div>
               </div>

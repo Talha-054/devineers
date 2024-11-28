@@ -6,13 +6,12 @@ const Hero = () => {
     <div className="container">
       <div className="row">
         <div className="col-lg-6 col-md-7">
-          <h1 className="hero-heading fw-bold tx-dark">
-            We are here to Help Achieve your &nbsp;
-            <span className="position-relative d-inline-block"> Success.</span>
-          </h1>
+          <h2 className="hero-heading fw-bold tx-dark">
+          Dominate Your Market with our Digital &nbsp;
+            <span className="position-relative d-inline-block"> Expertise!</span>
+          </h2>
           <p className="text-lg mb-60 pt-50 pe-xl-5 lg-pt-30 lg-mb-40">
-            <strong>Devineers Tech</strong> work with top rated talented people provide qulaity
-            services.
+            <strong>Devineers Tech</strong> helps you scale, lead, and dominate—on time, every time."
           </p>
 
           {/* <HeroSubscribe /> */}

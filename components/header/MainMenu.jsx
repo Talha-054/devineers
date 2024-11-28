@@ -107,6 +107,7 @@ const MainMenu = () => {
                 <li key={index}>
                   <Link
                     href={item.link}
+                    target="_blank"
                     className={`dropdown-item ${isActive(item.link) ? "active" : ""}`}
                   >
                     <span>{item.name}</span>

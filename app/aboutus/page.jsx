@@ -33,7 +33,7 @@ const AboutUsV3 = () => {
               <h2 className="main-title tx-dark fw-bold">About us</h2>
             </div>
             <p className="fs-20 mt-30 lg-mt-20">
-              Agency work with top rated talented people provide qulaity services.
+            Unlock future-ready solutions with elite engineers, driving success across technologies and timezones.
             </p>
           </div>
           {/* End container */}
@@ -75,12 +75,12 @@ const AboutUsV3 = () => {
                 <div className="title-style-one mt-30">
                   <div className="sc-title text-uppercase">Why us?</div>
                   <h2 className="main-title fw-bold tx-dark">
-                    Why <span>choose</span> Jano.
+                    Why <span>choose</span> Devineers.
                   </h2>
                 </div>{" "}
                 {/* /.title-style-one */}
                 <p className="text-lg mt-40 lg-mt-20">
-                  We helping our client to fullfill their needs with our expert.
+                We deliver expert solutions that ignite growth and lead to success.
                 </p>
                 <img
                   width={73}

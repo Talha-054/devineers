@@ -34,7 +34,7 @@ const ServiceV4 = () => {
               <h2 className="main-title tx-dark fw-bold">Services</h2>
             </div>
             <p className="fs-20 mt-30 lg-mt-20">
-              Agency work with top rated talented people provide qulaity services.
+           Discover expert services that drive innovation, deliver results, and fuel businesses' growth.
             </p>
           </div>
           {/* End container */}
@@ -60,8 +60,7 @@ const ServiceV4 = () => {
             </div>
             <div className="col-lg-5 ms-auto aos fadeInRight">
               <p className="text-lg text-center text-lg-start md-pt-30 m0">
-                Jano provides alternative asset management solutions to a global client base and
-                manages a significant.
+              Devineers Tech offers global asset management with expert solutions, driving impactful results.
               </p>
             </div>
           </div>
@@ -87,12 +86,13 @@ const ServiceV4 = () => {
                 <div className="title-style-one">
                   <div className="sc-title text-uppercase">Why us?</div>
                   <h2 className="main-title fw-bold tx-dark">
-                    Why <span>choose</span> Jano.
+                    Why <span>choose</span> Devineers.
                   </h2>
                 </div>{" "}
                 {/* /.title-style-one */}
                 <p className="text-lg mt-40 lg-mt-20">
-                  We helping our client to fullfill their needs with our expert.
+                  {/* We helping our client to fullfill their needs with our expert. */}
+                  We deliver expert solutions that ignite growth and lead to success.
                 </p>
                 <img
                   src="/images/shape/shape_179.svg"

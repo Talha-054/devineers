@@ -7,14 +7,14 @@ const AboutCeo = () => {
       subtitle: "About us",
       mainTitle: (
         <>
-          We’ve been helping <span>customer</span> globally.
+          We’ve been helping <span>customers</span> lead markets.
         </>
       ),
     },
     content: {
       sectionTitle: "Who we are?",
       description:
-        "Our founders Dustin Moskovitz and Justin Rosenstein met while leading Engineering teams at Facebook. As operations scaled, they grew frustrated by how difficult it was.",
+        "With 15 years of professional expertise, our team, led by CEO and founder Sir Farooq, delivers exceptional digital solutions. We have successfully revolutionized the online food delivery experience, transforming the industry across Germany and Turkey.",
     },
     rating: {
       text: "Avg 4.8 rating makes us world best agency.",
@@ -114,10 +114,10 @@ const AboutCeo = () => {
               />
             </div>
             <div className="name fs-18 fw-500 tx-dark mb-10">
-              - Bostami Ha, <span className="opacity-50">CEO</span>
+              - Farooq Cheema, <span className="opacity-50">CEO</span>
             </div>
             <p className="fs-18 m0">
-              We aim to answer any quis query in a minute
+              We aim to answer any quick query in a minute
             </p>
           </div>{" "}
           {/* /.card-one */}

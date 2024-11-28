@@ -10,32 +10,32 @@ const Testimonial = () => {
       imgSrc: "/images/media/img_02.png",
       backgroundColor: "#825EFF",
       rating: "Very solid, 8.3 out 10",
-      text: "We’v 9,000 agents across are country, Find agents near your neighborhood.",
-      author: "Martin Jonas",
-      country: "USA",
-    },
-    {
-      imgSrc: "/images/media/img_03.png",
-      backgroundColor: "#08CE97",
-      rating: "Very solid, 7.2 out 10",
-      text: "We’v 9,000 agents across are country, Find agents near your neighborhood.",
-      author: "Martin Jonas",
-      country: "USA",
+      text: "Next-level customer service! Faster orders, happier patrons, a smoother workflow, improved efficiency—it’s a win-win for everyone.",
+      author: "Capri Pizzaservice",
+      country: "Germany",
     },
     {
       imgSrc: "/images/media/img_02.png",
       backgroundColor: "#FF8A3A",
       rating: "Very solid, 9.1 out 10",
-      text: "We’v 9,000 agents across are country, Find agents near your neighborhood.",
-      author: "Martin Jonas",
-      country: "USA",
+      text: "Devineers Tech revolutionized our business! Skyrocketed sales, seamless engagement, and unmatched dedication—it’s a total game-changer!",
+      author: "ASIA Wok HH",
+      country: "Germany",
+    },
+    {
+      imgSrc: "/images/media/img_03.png",
+      backgroundColor: "#08CE97",
+      rating: "Very solid, 8.7 out 10",
+      text: "Managing our restaurant is a breeze now! Streamlined orders, happier staff, and delighted customers—it’s truly an absolutely essential must-have tool!",
+      author: "Palermo Pizza Service",
+      country: "Germany",
     },
     {
       imgSrc: "/images/media/img_03.png",
       backgroundColor: "#08CE97",
       rating: "Very solid, 10 out 10",
-      text: "We’v 9,000 agents across are country, Find agents near your neighborhood.",
-      author: "Martin Jonas",
+      text: "Impressed by unmatched professionalism! Brilliant team, seamless communication, exceptional results—an overall outstanding experience!",
+      author: "Hope Hydration",
       country: "USA",
     },
   ];
@@ -71,7 +71,7 @@ const Testimonial = () => {
           <div className="col-lg-6 col-md-7">
             <div className="title-style-one text-center text-md-start">
               <h2 className="main-title fw-bold tx-dark m0">
-                What’s <span>Our Client</span> Say About us.
+              <span>Our Clients</span> Our Best Advocates
               </h2>
             </div>
             {/* /.title-style-one */}

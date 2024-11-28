@@ -9,7 +9,7 @@ const cardData = [
     bgColor: "rgba(100, 219, 226, 0.18)",
     title: "Proffesional Support by expert.",
     description:
-      "Through our Family Office Services, we are able to provide the expertise derived from our beginnings.",
+      "Experience unmatched excellence with our elite experts, delivering solutions that redefine success and inspire confidence.",
     delay: 0,
   },
   {
@@ -18,7 +18,7 @@ const cardData = [
     bgColor: "rgba(255, 171, 51, 0.18)",
     title: "Web & Graphics Design.",
     description:
-      "The core of our service is based on the objective investment advice we seek to provide supported.",
+      "Redefine creativity with jaw-dropping designs that command attention, spark emotion, and elevate your brand to greatness.",
     delay: 200,
   },
   {
@@ -27,7 +27,7 @@ const cardData = [
     bgColor: "rgba(255, 160, 194, 0.18)",
     title: "Marketing & Affiliate Services.",
     description:
-      "Capco’s response is proven by our superb record of driving change through effective portfolio.",
+      "Dominate your market with bold, game-changing strategies and high-impact affiliate partnerships built for victory.",
     delay: 300,
   },
   {
@@ -36,7 +36,7 @@ const cardData = [
     bgColor: "rgba(56, 232, 255, 0.1)",
     title: "Web Development & Design",
     description:
-      "The core of our service is based on the objective investment advice we seek to provide supported.",
+      "Empower your digital presence with cutting-edge websites that exude brilliance, precision, and unstoppable performance.",
     delay: 0,
   },
   {
@@ -45,7 +45,7 @@ const cardData = [
     bgColor: "rgba(108, 55, 221, 0.1)",
     title: "Mobile Application Development.",
     description:
-      "The core of our service is based on the objective investment advice we seek to provide supported.",
+      "Revolutionize the future with immersive, world-class mobile apps designed to captivate, engage, and lead the market.",
     delay: 200,
   },
   {
@@ -54,7 +54,7 @@ const cardData = [
     bgColor: "rgba(68, 255, 0, 0.18)",
     title: "Content & Article Writing.",
     description:
-      "The core of our service is based on the objective investment advice we seek to provide supported.",
+      "Ignite your audience with powerful, dynamic content that commands attention and positions your brand as unstoppable.",
     delay: 300,
   },
 ];

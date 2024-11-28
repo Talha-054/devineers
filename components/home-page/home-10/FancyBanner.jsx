@@ -6,7 +6,7 @@ const FancyBanner = () => {
           <div className="col-xl-8 col-lg-10 m-auto text-center">
             <div className="title-style-one" data-aos="fade-up">
               <h2 className="main-title fw-bold tx-dark m0">
-                Ready to take plan? It’s just a matter of <span>one clike</span>
+                Ready to take plan? one click and watch <span>success</span> unfold 
               </h2>
             </div>{" "}
             {/* /.title-style-one */}

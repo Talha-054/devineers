@@ -31,7 +31,7 @@ const ContactV2 = () => {
               <h2 className="main-title tx-dark fw-bold">Contact Us</h2>
             </div>
             <p className="fs-20 mt-30 lg-mt-20">
-              Get our all info and also can message us directly from here
+            Get in touch and let's create the future of your business, today!
             </p>
           </div>
           {/* End container */}

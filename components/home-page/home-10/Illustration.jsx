@@ -8,8 +8,9 @@ const Illustration = () => {
   return (
     <div className="illustration-holder">
       <img
-        src="/images/assets/ils_01.png"
+        src="/images/assets/hero-img.jpg"
         alt="illustration"
+        height={"100%"}
         className="lazy-img main-illustration w-100"
       />
       {shapes.map((shape, i) => (
